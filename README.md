@@ -11,5 +11,6 @@
   <li> remove the consecutive duplicates from  array and string(08.js) </li>
   <li> check  if array is sorted(09.js) </li>
   <li> reverse the words in sentences like original string :- welcome to home reversed string :- home to welcome(10.js) </li>
+  <li> JavaScript Program to Check Whether a String is Palindrome or Not (11.js) </li>
 
 </ul>
